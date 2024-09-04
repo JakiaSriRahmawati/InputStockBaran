@@ -1,0 +1,68 @@
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\project_InputStockBarang_zakia.exe.config
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\project_InputStockBarang_zakia.exe
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\project_InputStockBarang_zakia.pdb
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\MySql.Data.dll
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\Google.Protobuf.dll
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\Ubiety.Dns.Core.dll
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\Renci.SshNet.dll
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\MySql.Data.xml
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csproj.AssemblyReference.cache
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.Form1.resources
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.Properties.Resources.resources
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csproj.GenerateResource.cache
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csproj.CoreCompileInputs.cache
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csproj.CopyComplete
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.exe
+D:\DATA JAKIA\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.pdb
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\project_InputStockBarang_zakia.exe.config
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\project_InputStockBarang_zakia.exe
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\project_InputStockBarang_zakia.pdb
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\MySql.Data.dll
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\Google.Protobuf.dll
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\BouncyCastle.Crypto.dll
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\Ubiety.Dns.Core.dll
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\Renci.SshNet.dll
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\MySql.Data.xml
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csprojAssemblyReference.cache
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.Form1.resources
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.Properties.Resources.resources
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csproj.GenerateResource.cache
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csproj.CoreCompileInputs.cache
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csproj.CopyComplete
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.exe
+F:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.pdb
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\project_InputStockBarang_zakia.exe.config
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\project_InputStockBarang_zakia.exe
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\project_InputStockBarang_zakia.pdb
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\MySql.Data.dll
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\Google.Protobuf.dll
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\Ubiety.Dns.Core.dll
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\Renci.SshNet.dll
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\MySql.Data.xml
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.Form1.resources
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.Properties.Resources.resources
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csproj.GenerateResource.cache
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csproj.CoreCompileInputs.cache
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csproj.CopyComplete
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.exe
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.pdb
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\project_InputStockBarang_zakia.exe.config
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\project_InputStockBarang_zakia.exe
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\project_InputStockBarang_zakia.pdb
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\MySql.Data.dll
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\Google.Protobuf.dll
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\BouncyCastle.Crypto.dll
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\Ubiety.Dns.Core.dll
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\Renci.SshNet.dll
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\bin\Debug\MySql.Data.xml
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csprojAssemblyReference.cache
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.Form1.resources
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.Properties.Resources.resources
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csproj.GenerateResource.cache
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csproj.CoreCompileInputs.cache
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csproj.CopyComplete
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.exe
+E:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.pdb
+D:\DATA JAKIA\Tugas KK (Pak Sandi)\project_InputStockBarang_zakia\project_InputStockBarang_zakia\obj\Debug\project_InputStockBarang_zakia.csprojAssemblyReference.cache
